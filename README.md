@@ -7,9 +7,9 @@ Python Programmer and Ethical Hacker
 👋 Hi, I'm Avek 👀 I’m interested in Black Hat 🌱 I’m currently learning Python - JavaScript and Php 📫 People Hate When You Success 😈 Hacktivist
 
 * 🌍  I'm based in Thane,Maharashtra
-* 🖥️  See my portfolio at [Website](http://codeax.herokuapp.com/)
+* 🖥️  See my portfolio at [Website](https://codeax1.herokuapp.com/)
 * ✉️  You can contact me at [workforavek@gmail.com](mailto:workforavek@gmail.com)
-* 🚀  I'm currently working on [Course site](http://coursecodeax.herokuapp.com)
+* 🚀  I'm currently working on [Course site](https://coursecodeax.herokuapp.com)
 * 🧠  I'm learning Database Management
 * 🤝  I'm open to collaborating on Python Scripting
 * ⚡  working on youtube video
