@@ -17,6 +17,7 @@ Python Programmer and Ethical Hacker
 ### Skills
 
 <p align="left">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -37,3 +38,6 @@ Python Programmer and Ethical Hacker
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/CodeAvek"><img src="https://github-readme-stats.vercel.app/api?username=CodeAvek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CodeAvek's GitHub stats" /></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sachin-kewat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sachin-kewat?trk=profile-badge">Sachin Kewat</a></div>
+              
